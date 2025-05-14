@@ -39,7 +39,7 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
-
+```
 
 ## Get started
 
