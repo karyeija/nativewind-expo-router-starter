@@ -54,6 +54,7 @@ cd YOUR_REPO
    ```bash
    npm install -g expo-cli
    ```
+   To install all other dependencies:
    ```bash
    npm install
    ```
