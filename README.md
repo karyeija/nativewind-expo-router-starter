@@ -44,7 +44,16 @@ cd YOUR_REPO
 ## Get started
 
 1. Install dependencies
-
+   Make sure you have Node.js ≥ 18, and Expo CLI installed globally:
+   To check if you have node installed:
+   
+   ```bash
+   node --version
+   ```
+   To install Expo CLI
+   ```bash
+   npm install -g expo-cli
+   ```
    ```bash
    npm install
    ```
@@ -62,9 +71,29 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://expo.github.io/router/docs) via **Expo Router**.
 
 
+
+✨ Tailwind in React Native?
+Yes! Thanks to NativeWind, you can use Tailwind classes like bg-red-500, flex-1, items-center, etc., directly in your React Native JSX.
+
+Example:
+<View className="flex-1 items-center justify-center bg-black">
+  <Text className="text-white text-lg">Hello, Tailwind!</Text>
+</View>
+
+🙋 Need Help?
+If you're stuck:
+
+Check the Expo Router docs
+
+Learn Tailwind with NativeWind
+
+Or open an issue
+
+🧑‍💻 Author
+Made with ❤️ by @karyeija
 
 To learn more about developing your project with Expo, look at the following resources:
 
