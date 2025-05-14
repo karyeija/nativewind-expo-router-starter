@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Expo + Tailwind + Router + Custom Bottom Nav Starter
 
 This is a full React Native project built with **Expo Router**, **NativeWind (Tailwind CSS)**, and a **custom bottom tab navigation bar with background styling**.
