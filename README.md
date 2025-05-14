@@ -1,7 +1,45 @@
 <<<<<<< HEAD
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Expo + Tailwind + Router + Custom Bottom Nav Starter
+
+This is a full React Native project built with **Expo Router**, **NativeWind (Tailwind CSS)**, and a **custom bottom tab navigation bar with background styling**.
+
+Perfect starter for building mobile apps using modern frontend techniques.
+
+---
+
+## 🌟 Features
+
+- 🚀 Expo Router (file-based navigation)
+- 🎨 Tailwind CSS via NativeWind
+- 🧭 Custom Bottom Tab Navigation Bar
+- 🌈 Gradient Background Component
+- 📁 Organized project structure
+
+---
+
+## 🪄 Getting Started (For Beginners)
+
+Follow these instructions to set up the project locally.
+
+---
+
+### 1️⃣ Fork the Repository
+
+1. Go to this repo: [GitHub Repo Link](https://github.com/karyeija/nativewind-expo-router-starter)
+2. Click **"Fork"** (top-right corner).
+3. After forking, click the **green "Code" button** and copy the URL (HTTPS).
+
+---
+
+### 2️⃣ Clone Your Forked Repository
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+
 
 ## Get started
 
@@ -26,17 +64,7 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
 
