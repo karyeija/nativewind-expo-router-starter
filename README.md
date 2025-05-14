@@ -78,6 +78,4 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 =======
-# nativewind-expo-router-starter
-This project is a complete configuration of native tailwind, expo router with custom bottom navigation bar and background.
->>>>>>> af0ed74aa74efa5c3648a9555c80d28f7f2560c2
+
