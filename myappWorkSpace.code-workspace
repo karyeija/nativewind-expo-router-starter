@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "my-app",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "C:/Users/FJK/OneDrive/Desktop/2025-03 React Native Movie App/React Native Movie App (assets)/assets"
+		},
+		{
+			"name": "constants",
+			"path": "C:/Users/FJK/OneDrive/Desktop/2025-03 React Native Movie App/React Native Movie App (assets)/constants"
+		},
+		{
+			"name": "interfaces",
+			"path": "C:/Users/FJK/OneDrive/Desktop/2025-03 React Native Movie App/React Native Movie App (assets)/interfaces"
+		},
+		{
+			"name": "types",
+			"path": "C:/Users/FJK/OneDrive/Desktop/2025-03 React Native Movie App/React Native Movie App (assets)/types"
+		}
+	],
+	"settings": {}
+}
